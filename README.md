@@ -34,16 +34,20 @@ Using the settings/production.py file
 
     - Head over to http://127.0.0.1:8000
 
-### Outputs
-    -Main Page 
-        ![Base Image](images/Base.png)
-    
-    -Category Page
-       ![Category Page](https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Category.png?raw=true)
-    
-    -Language Page
-        ![Language Page](https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Language.png?raw=true)
 
-    -Coder Page
-        ![Coder Page](https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Coder.png?raw=true)
+### Outputs
+Main Page 
+![Imgur](https://i.imgur.com/sSFMlEp.png)
+
+    
+Category Page
+![Imgur](https://i.imgur.com/113PF6Y.png)
+
+    
+Language Page
+![Imgur](https://i.imgur.com/jNRUraV.png)
+
+
+Coder Page
+![Imgur](https://i.imgur.com/eaX9YDk.png)
 
