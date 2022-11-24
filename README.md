@@ -36,14 +36,14 @@ Using the settings/production.py file
 
 ### Outputs
     -Main Page 
-        [Imgur](https://i.imgur.com/sSFMlEp.png)
+        (https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Base.png?raw=true)
     
     -Category Page
-        [Imgur](https://i.imgur.com/113PF6Y.png)
+       (https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Category.png?raw=true)
     
     -Language Page
-        [Imgur](https://i.imgur.com/jNRUraV.png)
+        (https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Language.png?raw=true)
 
     -Coder Page
-        [Imgur](https://i.imgur.com/eaX9YDk.png)
+        (https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Coder.png?raw=true)
 
