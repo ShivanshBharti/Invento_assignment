@@ -36,7 +36,7 @@ Using the settings/production.py file
 
 ### Outputs
     -Main Page 
-        <img src="https://imgur.com/sSFMlEp">
+        ![Imgur](https://i.imgur.com/sSFMlEp.png)
     
     -Category Page
        ![Category Page](https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Category.png?raw=true)
