@@ -36,7 +36,7 @@ Using the settings/production.py file
 
 ### Outputs
     -Main Page 
-        ![Main Page](https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Base.png?raw=true)
+        <img src="https://imgur.com/sSFMlEp">
     
     -Category Page
        ![Category Page](https://github.com/ShivanshBharti/Invento_assignment.git/blob/master/images/Category.png?raw=true)
